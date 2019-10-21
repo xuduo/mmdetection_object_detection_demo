@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>B30_1015180703.jpg</filename>
+	<path>/Users/xuduo/projects/mmdetection_object_detection_demo/data/VOC2007/JPEGImages/B30_1015180703.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1887</width>
+		<height>1026</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sp金百莉</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>294</ymin>
+			<xmax>243</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

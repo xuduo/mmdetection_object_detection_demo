@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>B06_1017151358.jpg</filename>
+	<path>/Users/xuduo/projects/mmdetection_object_detection_demo/data/VOC2007/JPEGImages/B06_1017151358.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1887</width>
+		<height>1026</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sp诺诺</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>14</ymin>
+			<xmax>438</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>
